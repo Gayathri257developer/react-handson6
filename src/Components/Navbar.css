@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(226, 224, 224);
+}
+.navbar{
+    background-color: blueviolet;
+    width: 99%;
+    height: 80px;
+    margin: 15px 5px;
+    display: flex;
+    flex-direction: row;  
+}
+h2{ 
+    color: aliceblue;
+    padding: 0px 150px;
+}
+.link{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+.header{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+}
+.table{
+    width: 80%;    
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
